@@ -9,8 +9,6 @@
 
 ![get-api-token-superuser 2024-12-31 204109](https://github.com/user-attachments/assets/4f8d4a45-1f24-4fe9-ba8f-b97eb9ade920)
 
-![new-user-token-bunny 2024-12-31 210354](https://github.com/user-attachments/assets/7a56986e-2b2d-44b7-b209-9e130798f530)
-
 ![bunny-token-sending 2024-12-31 212429](https://github.com/user-attachments/assets/dc0c9672-3380-49e5-b815-97a0a795554a)
 
 ![image](https://github.com/user-attachments/assets/2b343ec2-1754-4fef-b663-773406d6bd4d)
